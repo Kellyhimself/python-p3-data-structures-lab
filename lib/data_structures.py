@@ -1,3 +1,4 @@
+#data
 # Define a list of dictionaries representing different types of spicy foods
 spicy_foods = [
     {
